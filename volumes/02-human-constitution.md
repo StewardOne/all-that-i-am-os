@@ -102,6 +102,7 @@ The relationship between Article V (Creation) and the wisdom pipeline in Article
 
 - Volume I — Declaration of Being
 - Volume III — AI Constitution
+- Volume IV — Universal Constitution
 
 ## License
 
