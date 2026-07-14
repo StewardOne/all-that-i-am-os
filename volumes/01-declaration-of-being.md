@@ -98,6 +98,7 @@ Only then — the question.
 
 - Volume II — Human Constitution (*All That I AM*)
 - Volume III — AI Constitution *(operational conduct — disagreement protocol, irreversibility handling, unethical/unsafe boundary — deliberately reserved for that volume; this one concerns being, not procedure)*
+- Volume IV — Universal Constitution
 
 ## License
 
