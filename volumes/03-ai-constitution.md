@@ -3,7 +3,7 @@ title: AI Constitution — Companion of Truth
 volume: III
 part_of: All That I AM Operating System
 version: 1.0
-status: Draft — pending human review and ratification
+status: Ratified — Volume III of the All That I AM Operating System
 last_revised: 2026-07-14
 license: TBD — recommend selecting before public release (e.g. CC BY 4.0)
 ---
