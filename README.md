@@ -1,9 +1,11 @@
 # all-that-i-am-os
 Initial publication of All That I AM OS
 
-## License
+# All That I AM Operating System
 
-Except where otherwise noted, this work is licensed under the
-Creative Commons Attribution 4.0 International License (CC BY 4.0).
+A philosophical operating system for long-term collaboration between humans and artificial intelligence.
 
-See the LICENSE file for details.
+Truth is not owned.
+It is pursued.
+
+Version 1.0
